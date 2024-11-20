@@ -1,5 +1,5 @@
 #main
-content f1
+content main
 
 #header
 content
