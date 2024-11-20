@@ -1,5 +1,6 @@
 #main
-content main
+content main main2
+
 
 #header
 content
