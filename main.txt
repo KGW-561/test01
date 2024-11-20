@@ -1,8 +1,5 @@
 #main
-content
+content main
 
 #header
-content
-
-#index
 content
